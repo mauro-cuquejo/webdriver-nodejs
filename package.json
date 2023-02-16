@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "chromedriver": "^110.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "geckodriver": "^3.2.0",
+    "selenium-webdriver": "^4.8.0"
+  },
+  "name": "webdriver-nodejs",
+  "description": "Pruebas testing NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "dev": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauro-cuquejo/webdriver-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauro-cuquejo/webdriver-nodejs/issues"
+  },
+  "homepage": "https://github.com/mauro-cuquejo/webdriver-nodejs#readme"
+}
